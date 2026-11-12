@@ -1,0 +1,45 @@
+{
+  "tool": "Built-in image_gen",
+  "prompts": [
+    {
+      "server": "srv02",
+      "prompt": "Wide landscape educational 3D illustration: AlmaLinux 10, Vagrant, Git, friendly penguin at laptop, blue virtual server racks, warm desk. No fabricated terminal verification records."
+    },
+    {
+      "server": "srv03",
+      "prompt": "Use case: stylized-concept. Asset: wide landscape README banner for a Czech school Git Vagrant virtual server lab. Polished 3D illustration similar in spirit to srv01 reference: friendly Linux penguin working at laptop on warm wooden desk, blue holographic virtual server racks, Git branching symbol, Vagrant blue V symbol. Distribution CentOS Stream 10 with purple accents and distribution visual identity. Readable heading \"CentOS Stream 10\" and \"Vagrant\". No fabricated terminal output, hashes, times, verification records or personal details. Contemporary educational rendering, soft cinematic lighting. "
+    },
+    {
+      "server": "srv04",
+      "prompt": "Use case: stylized-concept. Asset: wide landscape README banner for a Czech school Git Vagrant virtual server lab. Polished 3D illustration similar in spirit to srv01 reference: friendly Linux penguin working at laptop on warm wooden desk, blue holographic virtual server racks, Git branching symbol, Vagrant blue V symbol. Distribution Rocky Linux 10 with green accents and distribution visual identity. Readable heading \"Rocky Linux 10\" and \"Vagrant\". No fabricated terminal output, hashes, times, verification records or personal details. Contemporary educational rendering, soft cinematic lighting. "
+    },
+    {
+      "server": "srv05",
+      "prompt": "Use case: stylized-concept. Asset: wide landscape README banner for a Czech school Git Vagrant virtual server lab. Polished 3D illustration similar in spirit to srv01 reference: friendly Linux penguin working at laptop on warm wooden desk, blue holographic virtual server racks, Git branching symbol, Vagrant blue V symbol. Distribution Fedora 43 with blue accents and distribution visual identity. Readable heading \"Fedora 43\" and \"Vagrant\". No fabricated terminal output, hashes, times, verification records or personal details. Contemporary educational rendering, soft cinematic lighting. "
+    },
+    {
+      "server": "srv06",
+      "prompt": "Use case: stylized-concept. Asset: wide landscape README banner for a Czech school Git Vagrant virtual server lab. Polished 3D illustration similar in spirit to srv01 reference: friendly Linux penguin working at laptop on warm wooden desk, blue holographic virtual server racks, Git branching symbol, Vagrant blue V symbol. Distribution Oracle Linux 10 with red accents and distribution visual identity. Readable heading \"Oracle Linux 10\" and \"Vagrant\". No fabricated terminal output, hashes, times, verification records or personal details. Contemporary educational rendering, soft cinematic lighting. "
+    },
+    {
+      "server": "srv07",
+      "prompt": "Use case: stylized-concept. Asset: wide landscape README banner for a Czech school Git Vagrant virtual server lab. Polished 3D illustration similar in spirit to srv01 reference: friendly Linux penguin working at laptop on warm wooden desk, blue holographic virtual server racks, Git branching symbol, Vagrant blue V symbol. Distribution Ubuntu 24.04 with orange accents and distribution visual identity. Readable heading \"Ubuntu 24.04\" and \"Vagrant\". No fabricated terminal output, hashes, times, verification records or personal details. Contemporary educational rendering, soft cinematic lighting. "
+    },
+    {
+      "server": "srv08",
+      "prompt": "Use case: stylized-concept. Asset: wide landscape README banner for a Czech school Git Vagrant virtual server lab. Polished 3D illustration similar in spirit to srv01 reference: friendly Linux penguin working at laptop on warm wooden desk, blue holographic virtual server racks, Git branching symbol, Vagrant blue V symbol. Distribution openSUSE Leap 15 with green chameleon accents and distribution visual identity. Readable heading \"openSUSE Leap 15\" and \"Vagrant\". No fabricated terminal output, hashes, times, verification records or personal details. Contemporary educational rendering, soft cinematic lighting. "
+    },
+    {
+      "server": "srv09",
+      "prompt": "Use case: stylized-concept. Asset: wide landscape README banner for a Czech school Git Vagrant virtual server lab. Polished 3D illustration similar in spirit to srv01 reference: friendly Linux penguin working at laptop on warm wooden desk, blue holographic virtual server racks, Git branching symbol, Vagrant blue V symbol. Distribution Kali Linux with blue dragon accents and distribution visual identity. Readable heading \"Kali Linux\" and \"Vagrant\". No fabricated terminal output, hashes, times, verification records or personal details. Contemporary educational rendering, soft cinematic lighting. "
+    },
+    {
+      "server": "srv10",
+      "prompt": "Use case: stylized-concept. Asset: wide landscape README banner for a Czech school Git Vagrant virtual server lab. Polished 3D illustration similar in spirit to srv01 reference: friendly BSD daemon working at laptop on warm wooden desk, blue holographic virtual server racks, Git branching symbol, Vagrant blue V symbol. Distribution FreeBSD 14.1 with red friendly BSD daemon accents and distribution visual identity. Readable heading \"FreeBSD 14.1\" and \"Vagrant\". No fabricated terminal output, hashes, times, verification records or personal details. Contemporary educational rendering, soft cinematic lighting. "
+    },
+    {
+      "server": "srv11",
+      "prompt": "Use case: stylized-concept. Asset: wide landscape README banner for a Czech school Git Vagrant virtual server lab. Polished 3D illustration similar in spirit to srv01 reference: friendly BSD daemon working at laptop on warm wooden desk, blue holographic virtual server racks, Git branching symbol, Vagrant blue V symbol. Distribution FreeBSD 14.1 with red friendly BSD daemon, alternate composition accents and distribution visual identity. Readable heading \"FreeBSD 14.1\" and \"Vagrant\". No fabricated terminal output, hashes, times, verification records or personal details. Contemporary educational rendering, soft cinematic lighting. Side view of laptop and two miniature servers."
+    }
+  ]
+}
